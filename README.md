@@ -16,3 +16,6 @@ A simple Python script to scan open ports and services using Nmap and identify r
 ## Usage
 ```bash
 python vuln_scanner.py --target 192.168.1.100
+## Output
+
+List of open ports, services, and risk assessment.
